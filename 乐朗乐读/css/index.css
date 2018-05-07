@@ -1,0 +1,260 @@
+
+@charset "utf-8";
+
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 14px;
+	color: #333;
+	outline: none;
+	font-family: "Microsoft Yahei";
+	box-sizing: border-box;
+}
+ul li {
+	list-style: none;
+}
+a:hover {
+	text-decoration: none;
+}
+body {
+	max-width: 750px;
+	background: #f0f0f8;
+	margin: 0 auto;
+}
+.yyq01 {
+	width: 100%;
+	padding: 5%;
+	background: #FFF;
+	float: left;
+}
+.yyq01 .logo {
+	width: 30%;
+	float: left;
+}
+.yyq01 .tel {
+	width: 30%;
+	margin-top: 4%;
+	float: right;
+}
+.yyq02 {
+	width: 100%;
+	float: left;
+}
+.yyq02 img {
+	width: 100%;
+	float: left;
+}
+.yyq03 {
+	width: 100%;
+	margin-top: 10px;
+	float: left;
+}
+.yyq03 img {
+	width: 100%;
+	float: left;
+}
+.yyq04 {
+	width: 100%;
+	background: #FFF;
+	float: left;
+}
+.yyq04 span {
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	font-size: 20px;
+	color: #f08200;
+	float: left;
+}
+.yyq04 img {
+	width: 100%;
+	float: left;
+}
+.yyq04 ul {
+	width: 100%;
+	padding: 10px 10%;
+	float: left;
+}
+.yyq04 ul li {
+	width: 100%;
+	padding: 10px 0;
+	float: left;
+}
+.yyq04 ul li input[type="text"] {
+	width: 80%;
+	border: 1px solid #ccc;
+}
+.yyq05 {
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	font-size: 20px;
+	color: #FFF;
+	letter-spacing: 5px;
+	background: #f08200;
+	float: left;
+}
+.yyq06 {
+	width: 100%;
+	background: #FFF;
+	float: left;
+}
+.yyq06 h3 {
+	width: 100%;
+	height: 70px;
+	line-height: 70px;
+	text-align: center;
+	font-size: 20px;
+	letter-spacing: 5px;
+	float: left;
+}
+.yyq06 img {
+	width: 100%;
+	float: left;
+}
+.yyq07 {
+	width: 100%;
+	padding: 5%;
+	background: #00a2a8;
+	float: left;
+}
+.yyq07 .t1 {
+	width: 100%;
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	font-size: 20px;
+	letter-spacing: 5px;
+	font-weight: bold;
+	color: #FFF;
+	float: left;
+}
+.yyq07 .t2 {
+	width: 96%;
+	margin-left: 2%;
+	line-height: 30px;
+	text-align: center;
+	font-size: 14px;
+	color: #FFF;
+	border: 2px solid #FFF;
+	float: left;
+}
+.yyq07 ul {
+	width: 100%;
+	padding: 10px 0;
+	float: left;
+}
+.yyq07 ul li {
+	width: 100%;
+	padding: 10px 0;
+	float: left;
+}
+.yyq07 ul li label {
+	width: 30%;
+	line-height: 30px;
+	background: #FFF;
+	text-align: center;
+	color: #00a2a8;
+	float: left;
+}
+.yyq07 ul li p {
+	width: 65%;
+	margin-top: 10px;
+	line-height: 20px;
+	font-size: 10px;
+	color: #FFF;
+	float: right;
+}
+.yyq07 .t3 {
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	color: #FFF;
+	background: #f08200;
+	margin-bottom: 10px;
+	float: left;
+}
+.yyq07 img {
+	width: 100%;
+	float: left;
+}
+.yyq08 {
+	width: 100%;
+	margin-bottom: 10px;
+	background: #FFF;
+	float: left;
+}
+.yyq08 ul {
+	width: 100%;
+	padding: 10px 10%;
+	float: left;
+}
+.yyq08 ul li {
+	width: 100%;
+	padding: 10px 0;
+	float: left;
+}
+.yyq08 ul li input[type="text"] {
+	width: 80%;
+	border: 1px solid #ccc;
+}
+.yyq08 ul li input[type="button"] {
+	width: 40%;
+	height: 24px;
+	font-size: 12px;
+	margin-left: 30%;
+	background: #f6f6f6;
+	border: 1px solid #ccc;
+	-webkit-appearance: none;
+}
+.yyq09 {
+	width: 100%;
+	background: #FFF;
+	float: left;
+}
+.yyq09 span {
+	width: 100%;
+	height: 70px;
+	line-height: 70px;
+	text-align: center;
+	font-size: 20px;
+	letter-spacing: 5px;
+	float: left;
+}
+.yyq09 ul {
+	width: 100%;
+	padding: 0 5%;
+	float: left;
+}
+.yyq09 ul li {
+	width: 100%;
+	padding-bottom: 10px;
+	float: left;
+}
+.yyq09 ul li a {
+	width: 100%;
+	float: left;
+}
+.yyq09 ul li a img {
+	width: 100%;
+	float: left;
+}
+.yyq10 {
+	width: 100%;
+	margin-bottom: 10px;
+	float: left;
+}
+.yyq10 a {
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	font-size: 20px;
+	color: #FFF;
+	letter-spacing: 5px;
+	background: #f08200;
+	float: left;
+}
